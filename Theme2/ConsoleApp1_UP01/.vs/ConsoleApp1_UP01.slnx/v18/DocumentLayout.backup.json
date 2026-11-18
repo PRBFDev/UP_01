@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\source\\repos\\ConsoleApp1_UP01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68FFF6E5-10EB-4421-8F97-EF5D9515A46C}|ConsoleApp1_UP01\\ConsoleApp1_UP01.csproj|c:\\users\\\u0432\u0430\u0434\u0438\u043C\\source\\repos\\consoleapp1_up01\\consoleapp1_up01\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FFF6E5-10EB-4421-8F97-EF5D9515A46C}|ConsoleApp1_UP01\\ConsoleApp1_UP01.csproj|solutionrelative:consoleapp1_up01\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FFF6E5-10EB-4421-8F97-EF5D9515A46C}|ConsoleApp1_UP01\\ConsoleApp1_UP01.csproj|c:\\users\\\u0432\u0430\u0434\u0438\u043C\\source\\repos\\consoleapp1_up01\\consoleapp1_up01\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FFF6E5-10EB-4421-8F97-EF5D9515A46C}|ConsoleApp1_UP01\\ConsoleApp1_UP01.csproj|solutionrelative:consoleapp1_up01\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FFF6E5-10EB-4421-8F97-EF5D9515A46C}|ConsoleApp1_UP01\\ConsoleApp1_UP01.csproj|c:\\users\\\u0432\u0430\u0434\u0438\u043C\\source\\repos\\consoleapp1_up01\\consoleapp1_up01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FFF6E5-10EB-4421-8F97-EF5D9515A46C}|ConsoleApp1_UP01\\ConsoleApp1_UP01.csproj|solutionrelative:consoleapp1_up01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 331,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\source\\repos\\ConsoleApp1_UP01\\ConsoleApp1_UP01\\User.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1_UP01\\User.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\source\\repos\\ConsoleApp1_UP01\\ConsoleApp1_UP01\\User.cs",
+              "RelativeToolTip": "ConsoleApp1_UP01\\User.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T03:47:36.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Math.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\source\\repos\\ConsoleApp1_UP01\\ConsoleApp1_UP01\\Math.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1_UP01\\Math.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\source\\repos\\ConsoleApp1_UP01\\ConsoleApp1_UP01\\Math.cs",
+              "RelativeToolTip": "ConsoleApp1_UP01\\Math.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T03:41:56.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\source\\repos\\ConsoleApp1_UP01\\ConsoleApp1_UP01\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1_UP01\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\source\\repos\\ConsoleApp1_UP01\\ConsoleApp1_UP01\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1_UP01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T03:40:46.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
