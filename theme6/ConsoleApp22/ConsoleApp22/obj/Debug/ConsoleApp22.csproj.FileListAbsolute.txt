@@ -1,0 +1,14 @@
+C:\Users\mihey\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.exe.config
+C:\Users\mihey\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.exe
+C:\Users\mihey\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.pdb
+C:\Users\mihey\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.csproj.AssemblyReference.cache
+C:\Users\mihey\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.csproj.CoreCompileInputs.cache
+C:\Users\mihey\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.exe
+C:\Users\mihey\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.pdb
+C:\Documents\GitHubGays\UP_01\theme6\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.exe.config
+C:\Documents\GitHubGays\UP_01\theme6\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.exe
+C:\Documents\GitHubGays\UP_01\theme6\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.pdb
+C:\Documents\GitHubGays\UP_01\theme6\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.csproj.AssemblyReference.cache
+C:\Documents\GitHubGays\UP_01\theme6\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.csproj.CoreCompileInputs.cache
+C:\Documents\GitHubGays\UP_01\theme6\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.exe
+C:\Documents\GitHubGays\UP_01\theme6\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.pdb
